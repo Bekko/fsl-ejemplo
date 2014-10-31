@@ -2,5 +2,9 @@ Hola
 Mi
 Nombre
 Es
+<<<<<<< HEAD
 Pedro
 
+=======
+Fermin
+>>>>>>> master
